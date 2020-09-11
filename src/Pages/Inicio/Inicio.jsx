@@ -1,12 +1,10 @@
 import React from 'react';
-import './App.css';
-
-import Routes from './Utils/Routes'
+import './Inicio.css';
 
 function App() {
   return (
     <div className="App">
-      <Routes />
+      <h1>Modelo Padrão React App VGSBM</h1>
     </div>
   );
 }
